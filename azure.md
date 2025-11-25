@@ -16,7 +16,7 @@ A seguir, estão as ferramentas e categorias exibidas na documentação analisad
 
 Serviços que permitem que sistemas interpretem imagens e vídeos.
 
-- Funções comuns:
+##### Funções comuns:
 
 - Reconhecimento de objetos
 
@@ -32,7 +32,7 @@ Serviços que permitem que sistemas interpretem imagens e vídeos.
 
 Permite interações por voz entre pessoas e computadores.
 
-- Capacidades principais:
+##### Capacidades principais:
 
 - Converter fala em texto
 
@@ -48,7 +48,7 @@ Permite interações por voz entre pessoas e computadores.
 
 Conjunto de ferramentas que ajudam softwares a tomarem decisões inteligentes com base em análise de dados.
 
-- Podem ser usadas para:
+#### Podem ser usadas para:
 
 - Moderação de conteúdo
 
@@ -64,7 +64,7 @@ Conjunto de ferramentas que ajudam softwares a tomarem decisões inteligentes co
 
 Tecnologia para criar mecanismos de busca inteligentes e eficientes.
 
-Permite:
+##### Permite:
 
 - Indexar documentos e dados
 
@@ -83,7 +83,7 @@ Durante a análise da documentação, notei que existe também a ferramenta Apre
 
 Achei essa ferramenta particularmente interessante, porque ela permite que sistemas entendam textos escritos de forma muito semelhante a humanos.
 
-Algumas funções dessa tecnologia:
+##### Algumas funções dessa tecnologia:
 
 - Análise de sentimentos
 
